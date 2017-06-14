@@ -11,5 +11,7 @@ The purpose of these games is to introduce young children (considering these are
 
 Screenshots of the site:
 https://user-images.githubusercontent.com/23226474/27139584-677e76a0-50f1-11e7-81c9-cd9459795222.png
+
 https://user-images.githubusercontent.com/23226474/27139656-9c3c16f4-50f1-11e7-8cbd-6bf55658c9af.png
+
 https://user-images.githubusercontent.com/23226474/27139657-9eefb20c-50f1-11e7-8b05-af7e2f920a61.png
