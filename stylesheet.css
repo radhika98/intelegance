@@ -1,0 +1,110 @@
+* {
+    font-family:'Raleway', sans-serif;
+}
+
+html {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    color:#C30000;
+    font-size: 60px;
+    letter-spacing: 5px;
+}
+
+.picofus {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+#pitch {
+	color: #323232;
+	font-family: 'Arial', sans-serif;
+}
+
+.usus {
+	text-align: center;
+    color: #323232;
+	font-family: 'Arial', sans-serif;
+
+}
+
+/*.box {
+    float: left;
+    height:800px;
+    width:100px;
+    background-color:#ffffff;
+    position:fixed;
+} Bar on side*/
+
+.textbox {
+    height:auto;
+    width:auto;
+    
+    padding: 5px;
+    color: white;
+}
+
+
+body {
+    
+    background-image: url("webbg.png");
+}
+
+#header {
+    height:auto;
+    width:auto;
+    background-color:#323232;
+    color:white;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#header a:hover {
+    color:#ff9999;
+}
+
+a:visited {
+    color:#ff1919;
+    text-decoration:none;
+} 
+
+a:link {
+    color:white;
+    text-decoration:none;
+    
+}
+
+#fta img{
+    height: 50px;
+    width: 50px;
+}
+
+#eta img {
+    height: 50px;
+    width: 50px;
+}
+
+#sta img {
+    height: 50px;
+    width: 50px;
+}
+
+#ender {
+    height:auto;
+    width:auto;
+    background-color:#323232;
+    color:white;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
