@@ -2,9 +2,10 @@
 
 
 
-This is the first website I ever created, called intelegance (it's a play on words with intelligence, int and elegance). 
+This is the first website I ever created, called intelegance (it's a play on words with intelligence, int and elegance :)). 
 
-This website incorporates two games that help the player understand basic concepts of programming. The games were programmed using apps like Phaser and Cloud9. 
+This website incorporates two games that help the player understand basic concepts of programming. The games were programmed in Javascript and HMTL and I used Phaser (an open source HTML5 game framework) and Cloud9 (an online code editor). 
+
 
 In the first game, it's Christmas and you have match the correct present with the correct girl, allowing the palyer to learn about variables, and the second game is a version of snake where everytime the snake eats the food with a name above it, that name gets appended to an array. 
 
